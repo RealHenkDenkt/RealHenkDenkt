@@ -6,3 +6,5 @@ The software presented here has been designed to help researching numbers and th
 
 All software is presented 'as it' without warranty. 
 
+
+
