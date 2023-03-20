@@ -4,7 +4,7 @@ Not just numbers in pure mathematical form but also ontological/philosophical.
 
 The software presented here has been designed to help researching numbers and their properties.
 
-All software is presented 'as it' without warranty. 
+All software is presented 'as is' without warranty. 
 
 
 
